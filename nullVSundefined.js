@@ -22,4 +22,6 @@ else{
 let fun=undefined;
 console.log(fun);
 
+arr=[1,2, ,4];
+console.log(arr[2]);
 
