@@ -31,3 +31,7 @@ if (nam){
  else{
      console.log("condition is false");
 }
+
+
+console.log(true+false);
+console.log(null+true);
