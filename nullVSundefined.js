@@ -1,23 +1,25 @@
-//let pakhi;
-// function add(num1,num2){
-//     console.log(num1+num2);
-//     return 
-// }
+let pakhi;
+function add(num1,num2){
+    console.log(num1+num2);
+    return 
+}
 
-// function add(num1,num2){
-//     console.log(num1,num2);
-// }
+function add(num1,num2){
+    console.log(num1,num2);
+}
 
 
-// const premik= {name:"smart dude",phone:45262};
-// console.log(premik.gf);
+const premik= {name:"smart dude",phone:45262};
+console.log(premik.gf);
 
-// if (premik.name){
-//     console.log("gh");
-// }
-// else{
-//     console.log("lklhk");
-// }
+if (premik.name){
+    console.log("gh");
+}
+else{
+    console.log("lklhk");
+}
 
 let fun=undefined;
 console.log(fun);
+
+
