@@ -1,3 +1,7 @@
+//double equal type k convert kore value k kasakasi kore ak e type a convert kore check kore
+//triple equal value,type sob check kore
+
+
 let first=2;
 let second="2";
 // const ip=typeof first;
