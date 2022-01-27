@@ -26,4 +26,4 @@ console.log(l);
 
 
 console.log(f);
-var f="jdn";
+var f="jdn";   //let,const dile error asbe
